@@ -51,7 +51,7 @@ def part2():
         elif e < f:
           print(f'''\033[32m
           Mr. {m[0]} has an Intelligence Stat of {e}
-          Mr. {m[1]} has an Intelligence Stat of {f}
+          Mr. {m[1]} has an Intelligence Stat of {f}.
           
           ************ Mr {m[1]} wins!!!***********''')
         else:
